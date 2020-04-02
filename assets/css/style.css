@@ -1,0 +1,27 @@
+.navbar-hitam{
+    background-color: black;
+}
+
+.stick-1{
+    width: 25px;
+    height: 2px;
+    background-color: white;
+    display: block;
+}
+
+
+.stick-2{
+    width: 25px;
+    height: 2px;
+    background-color: white;
+    margin-top: 4px;
+    display: block;
+}
+
+.stick-3{
+    width: 25px;
+    height: 2px;
+    background-color: white;
+    margin-top: 4px;    
+    display: block;
+}
